@@ -38,8 +38,14 @@ IMF
 - Non-financial corporate debt https://www.imf.org/external/datamapper/NFC_ALL@GDD/SWE
 
 # Insights
+- In Europe, interest rates have been stable but with a general decline from 2015 until 2022 when they started to increase quickly, due to rising inflation
+- The spike in bankruptcies in 2022-Q3 could be a result of increased interest rates starting in 2022
 
 ![2024-09-25](https://github.com/user-attachments/assets/d8c616ad-ceb9-4360-b3a6-8caf68431d94)
+
+(Absolute number of bankruptcies for Europe and the U.S. not entirely comparable, due to e.g. different bankruptcy laws, fewer large firms in the U.S)
+- Looking at year on year variations, number of bankruptcies in the U.S. is significantly more volatile than in Europe in recent years
+- This may reflect the fact that the U.S. put less bankruptcy prevention measures in place during COVID-19 and re-opened the economy earlier than European states
 
 ![2024-09-25 (1)](https://github.com/user-attachments/assets/e85a92c5-a603-4a34-8079-144d7d94680b)
 
