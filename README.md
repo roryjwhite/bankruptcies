@@ -36,3 +36,18 @@ OECD
 
 IMF
 - Non-financial corporate debt https://www.imf.org/external/datamapper/NFC_ALL@GDD/SWE
+
+# Insights
+
+![2024-09-25](https://github.com/user-attachments/assets/d8c616ad-ceb9-4360-b3a6-8caf68431d94)
+
+![2024-09-25 (1)](https://github.com/user-attachments/assets/e85a92c5-a603-4a34-8079-144d7d94680b)
+
+![2024-09-25 (2)](https://github.com/user-attachments/assets/ea235141-badb-4cfb-80f8-88cfa6ed137c)
+
+
+
+
+
+
+
