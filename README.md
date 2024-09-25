@@ -4,4 +4,4 @@ Time-series and statistical analyses of historical bankruptcy data in the EU and
 
 # Context
 
-In support of business risk management strategies related to expansion within the EU and U.S. regions, our analysis (or IT IS IMPORTANT TO) investigates correlation patterns between the two regions to understand the economic environments and different risks etc.
+Risk management is an essential factor of an expansion strategy. For European or US firms looking to enter new markets, it is essential to understand the different economic environments and associated risks of these new regions. Our project aims to uncover insights into the these environments by analysing historical bankruptcy data and investigate the correlation patterns between different macroeconomic indicators e.g. interest rates.
