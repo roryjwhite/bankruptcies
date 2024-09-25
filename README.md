@@ -4,4 +4,4 @@ Time-series and statistical analyses of historical bankruptcy data in the EU and
 
 # Context
 
-Risk management is an essential factor of an expansion strategy. For European or US firms looking to enter new markets, it is essential to understand the different economic environments and associated risks of these new regions. Our project aims to uncover insights into the these environments by analysing historical bankruptcy data and investigate the correlation patterns between different macroeconomic indicators e.g. interest rates.
+Risk management is an essential factor of an expansion strategy. For European or US firms looking to enter new markets, it is necessary to understand the different economic environments and associated risks of these new regions. Our project aims to uncover insights into the these environments by analysing historical bankruptcy data and investigate the correlation patterns between different macroeconomic indicators e.g. interest rates.
