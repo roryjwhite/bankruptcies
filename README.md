@@ -49,8 +49,8 @@ IMF
 
 ![2024-09-25 (1)](https://github.com/user-attachments/assets/e85a92c5-a603-4a34-8079-144d7d94680b)
 
-- Regarding correlation patterns between different macroeconomic indicators, the he majority of European countries form a large cluster, with the exception of a few outliers in Luxembourg and Denmark - caused by debt-value-from-profits and debt-to-equity ratio respectively
-- Our hypothesis for Luxembourg's results stems from the fact that the country's economy is dominated by the banking and financial sectors, which tend to result in high levels of debt-value-from-profits
+- With respect to correlation patterns between different macroeconomic indicators, the majority of European countries form a large cluster, with Luxembourg and Denmark as outliers (caused by debt-value-from-profits and debt-to-equity ratio respectively)
+- Luxembourg's economy is dominated by the banking and financial sectors which tend to result in high levels of debt-value-from-profits
 
 ![2024-09-25 (2)](https://github.com/user-attachments/assets/ea235141-badb-4cfb-80f8-88cfa6ed137c)
 
